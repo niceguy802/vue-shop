@@ -1,4 +1,4 @@
-# gouwujie
+# vue-shop
     购物街
 ## Project setup
 ```
